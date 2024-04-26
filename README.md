@@ -1,6 +1,6 @@
 ## Olá! eu sou o Adailton Brito
-- 💻 Trabalho com Front End
-- 📘 Estudando JavaScript
+- 💻 Desenvolvedor Front End | Programador Front End
+
   ##
   <div>
   
@@ -8,11 +8,13 @@
  </div>
  
 ##
- 
+<div>
+ <h1 >Especialidades</h1>
+</div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Adailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adailton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adailton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
 ##
