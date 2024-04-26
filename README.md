@@ -2,9 +2,16 @@
 - 💻 Desenvolvedor Front End | Programador Front End
 
   ##
-  <div>
-  
-![Adailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adailton-dev&show_icons=true&theme=radical)
+  <div >
+    <a href="https://github.com/Adailton-dev/github-readme-stats">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adailton-dev&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Adailton-dev/convoychat">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adailton-dev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
+
+
+
  </div>
  
 ##
