@@ -1,7 +1,7 @@
 ## Olá! eu sou o Adailton Brito
-##- 💻 Desenvolvedor Front End | Programador Front End
+- 💻 Desenvolvedor Front End | Programador Front End
 
-
+##
   <div >
     <a href="https://github.com/Adailton-dev/github-readme-stats">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adailton-dev&show_icons=true&theme=dracula" />
@@ -9,10 +9,7 @@
 <a href="https://github.com/Adailton-dev/convoychat">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adailton-dev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
-
-
-
- </div>
+  </div>
  
 ##
 <div>
@@ -27,8 +24,6 @@
 ##
  
 <div> 
- 
-  
   <a href = "mailto:djadailtondetartaruga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adailton-santos-da-silva-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5575982965572"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
