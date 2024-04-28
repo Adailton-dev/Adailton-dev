@@ -1,7 +1,7 @@
 ## Olá! eu sou o Adailton Brito
-- 💻 Desenvolvedor Front End | Programador Front End
+##- 💻 Desenvolvedor Front End | Programador Front End
 
-  ##
+
   <div >
     <a href="https://github.com/Adailton-dev/github-readme-stats">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adailton-dev&show_icons=true&theme=dracula" />
